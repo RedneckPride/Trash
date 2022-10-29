@@ -1,0 +1,161 @@
+.main {
+
+}
+
+.head {
+	background-image:url(http://promusor.in.ua/images/header-pattern.png);
+	background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size:cover;
+    margin-bottom: 100px;
+
+
+}
+.logo	{
+	margin-left: 900px;
+    margin-right: 300px;
+	padding-top: 200;
+    margin-bottom: 340px;
+    background-repeat: no-repeat;
+    background-position: top-left;
+}
+}
+.logo-text {
+     
+    
+   
+    color: black;
+ 
+    
+    text-decoration: none;
+    display:inline-block;
+    
+
+}
+.text-head {
+    margin-left: 550px;
+    width: 800px;
+    
+}
+.main {
+    
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+}
+.main1text {
+    width: 70%;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-family: 'Museosanscyrl 900', sans-serif;
+    font-size: 36px;
+    line-height: 39px;
+    text-align: left;
+}
+.text2 {
+     text-align: left;
+     font-family: 'Museosanscyrl 900', sans-serif;
+     width: 70%;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+.botilka {
+    font-family: 'Museosanscyrl 900', sans-serif;
+    font-size: 22px;
+    line-height: 25px;
+    margin-top: 20px; 
+    margin-bottom: 10px;
+    
+}
+.gh {
+        font-size: 15px;
+    line-height: 20px;
+}
+.mar {
+    margin:30px 30px 30px 0px;
+}
+.g2 {
+    text-align: center;
+}
+.dis {
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.
+.g2 {
+    display: inline-block;
+}
+.co {
+    width: 400px;
+    height: 100%;
+}
+.pa {
+    padding: 0px;
+    margin-right: 10px;
+
+}
+.ma {
+    margin-bottom: 30px;
+}
+.m1 {
+    mar
+}
+.sectionma {
+    margin-top: 800px;
+    overflow: hidden;
+
+}
+.g3 {
+    
+    width: 50%;
+}
+.g4 {
+    float: left;
+}
+.f2oot {
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.g5 {
+    margin-left: 200px;
+    margin-right:200px; 
+}
+.s2 {
+    float:left;
+    width:60%;
+
+}
+.s1 {
+    overflow: hidden;
+    margin-top: 200px;
+}
+.s3 {
+    overflow: hidden;
+    margin-top: 200px;
+}
+.g6 {
+    height: 500px;
+}
+.h2 {
+    
+    font-size: 13px;
+    padding: 20px;
+    width: 78px;
+    height: 125px;
+    display: inline-block;
+    vertical-align: top;
+}
+img {
+    max-width: 100%;
+}
+.g {
+    float: left; 
+    margin-bottom: 0px;       
+}
+.gg {
+    overflow: hidden;
+}
